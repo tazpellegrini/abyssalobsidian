@@ -50,7 +50,7 @@ To make things coherent despite the asymmetrical spacing of headings and other b
 This is not a big deal, but it helped me get into a more InDesign/Publisher kinda process, which was fun (the difference being the way that baseline is rendered on the web versus on print–focused apps, but what mattered for me was the visualization of consistency/coherence while exploring options). 
 
 ## 🎨 Colors
-All the colors of Abyssal were hand-generated (if that’s a thing) in Figma using good–old–trial–and–error for legibility and contrast; as soon as a hue clicked fitted the theme, the rest of the colors would follow with movements on the S, and L values to keep things coherent (I don’t know why but I’m obsessed with abyssal fish, deep ocean and, therefore, the blue color, so that ended up influencing the theme). 
+All the colors of Abyssal were hand-generated (if that’s a thing) in Figma using good–old–trial–and–error for legibility and contrast; as soon as a hue clicked with the theme, the rest of the colors would follow with movements on the S, and L values to keep things coherent (I don’t know why but I’m obsessed with abyssal fish, deep ocean and, therefore, the blue color, so that ended up influencing the theme). 
 
 I confess I don’t use the light theme of any app where I need to write or read for long periods, so my bias of not using pure #FFF or #000 might be a bit off, but my personal impression is that these softer tones created a gentler experience for the eyes.
 
