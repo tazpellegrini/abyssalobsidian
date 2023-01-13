@@ -122,8 +122,8 @@ body {
 
   --color-emphasis:                       var(--text-accent-emphasis);
   
-  --color-green:                         #55C790;
-  --color-green-rgb:                       85, 199, 144;
+  --color-green:                         #34915e;
+  --color-green-rgb:                       52, 145, 94;
   
   --color-orange:                        #FD9434;
   --color-orange-rgb:                      253, 148, 52;
@@ -172,12 +172,12 @@ body {
   --text-accent-hover:                     hsl(
                                               var(--accent-h),
                                               var(--accent-s),
-                                              calc(var(--accent-l) + 20%));
+                                              calc(var(--accent-l) + 10%));
   
   --text-accent-hover-embed:                hsl(
                                                 var(--accent-h),
                                                 var(--accent-s),
-                                                calc(var(--accent-l) + 50%));
+                                                calc(var(--accent-l) + 5%));
   --text-accent-emphasis:                   hsl(
                                                 var(--accent-h),
                                                 var(--accent-s),
@@ -235,7 +235,7 @@ body {
   --table-row-background-hover:            var(--color-base-10);
 
   /* 2.e —— Blockquote and Code                      */
-  --blockquote-color:                      var(--color-accent);
+  --blockquote-color:                      var(--color-base-40);
   --blockquote-background-color:           var(--color-base-00);
 
   --embed-background-color:                var(--color-base-10);
@@ -1142,4 +1142,3 @@ settings:
         type: class-toggle
 
 */
-
