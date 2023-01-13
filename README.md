@@ -5,7 +5,7 @@ Abyssal is a simple theme from a type enthusiast (me) who was looking for modifi
 
 Inspired by the depths of the ocean, it’s a theme that focuses on white space and mute colors (respecting accessibility standards). Your accent color will influence the theme but not in an expressive way (it’s too dark where the abyssal fish live 🐟). 
 
-Abyssal does not require any plugins or extra snippets: it should work out–of–the–box using the default system font ([more on that later](#fonts)) both on Windows and Mac, light and dark themes, translucent or not. But! It supports **colorful headings** and a **bigger line height** via the [Style Settings community plugin](https://github.com/mgmeyers/obsidian-style-settings)—more details on the [customization](#-customization) section. 
+Abyssal does not require any plugins or extra snippets: it should work out–of–the–box using the default system font ([more on that later](#-why-system-fonts)) both on Windows and Mac, light and dark themes, translucent or not. But! It supports **colorful headings** and a **bigger line height** via the [Style Settings community plugin](https://github.com/mgmeyers/obsidian-style-settings)—more details on the [customization](#-customization) section. 
 
 There were many small details handled in Abyssal, but the most notable are:
 
@@ -32,7 +32,7 @@ Abyssal can be found by opening Obsidian and going to:
 
 Settings › Appearance › Themes, click on “Manage” and search for Abyssal.
 
-## 🤖 [Why system fonts](#fonts)
+## 🤖 Why system fonts
 As a type design enthusiast, I’m always excited to use my favorite typefaces from foundries and designers that I like ([OHNO](https://ohnotype.co/fonts/degular), [ABC Dinamo](https://abcdinamo.com/typefaces/arizona), [Flavia Zimbardi](https://flaviazim.com/typefaces/lygia-sans), [Phil Pluckthun](https://philpl.gumroad.com/l/dank-mono?layout=profile)), and that was my first inclination when installing Obsidian. But soon, I saw myself writing CSS to properly typeset them—after all, each font needs specific grooming: a baseline grid/leading setting that works for one won’t necessarily work for the other; sizing scales that look great in a grotesque might not work that well in a humanist counterpart, etc. There’s no one–size–fits–all solution, so I decided to work with what I, and everyone else, would have in common: system fonts. 
 
 If I could make all the extra and contextual spacing work with the default system font, it wouldn’t take much to figure out how to groom whatever font I would choose for myself, so I started playing with it. The fun thing is that I liked the results on macOS (that uses SF Pro) and Windows 11 (Segoe UI), which led me to want to share the results as a theme with you.
@@ -66,3 +66,5 @@ The plugin [Contextual typography](https://github.com/mgmeyers/obsidian-contextu
 
 ## ⚖️ Licensing
 You’re welcome to customize, change and remix the theme! Just keep in mind that any modification or distribution must retain the original MIT License and credit me as the author and the authors of any other code or snippet used in your variation. 
+
+If you have any questions, comments or suggestions, please feel free to reach out ❤️ Happy writing!
