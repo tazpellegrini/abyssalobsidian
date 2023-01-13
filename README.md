@@ -5,7 +5,7 @@ Abyssal is a simple theme from a type enthusiast (me) who was looking for modifi
 
 Inspired by the depths of the ocean, it’s a theme that focuses on white space and mute colors (respecting accessibility standards). Your accent color will influence the theme but not in an expressive way (it’s too dark where the abyssal fish live 🐟). 
 
-Abyssal does not require any plugins or extra snippets: it should work out–of–the–box using the default system font ([more on that later](#fonts)) both on Windows and Mac, light and dark themes, translucent or not. But! It supports **colorful headings** and a **bigger line height** via the [Style Settings community plugin](https://github.com/mgmeyers/obsidian-style-settings)—more details on the [options](#options) section. 
+Abyssal does not require any plugins or extra snippets: it should work out–of–the–box using the default system font ([more on that later](#fonts)) both on Windows and Mac, light and dark themes, translucent or not. But! It supports **colorful headings** and a **bigger line height** via the [Style Settings community plugin](https://github.com/mgmeyers/obsidian-style-settings)—more details on the [customization](#-customization) section. 
 
 There were many small details handled in Abyssal, but the most notable are:
 
