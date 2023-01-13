@@ -368,7 +368,7 @@ body {
                                                 calc(var(--accent-dark) + 10%));
   
   --inline-title-border:                   var(--color-base-35);
-  --inline-title-color:                    #40677e;
+  --inline-title-color:                    #3d6681;
 
   --heading-color:                         #DEE8ED;
   --h1-color:                              var(--heading-color);
@@ -740,7 +740,7 @@ span.search-result-file-matched-text {
 .internal-embed .markdown-rendered h4,
 .internal-embed .markdown-rendered h5,
 .internal-embed .markdown-rendered h6 {
-  margin:           0 0 0.5em 0;
+  margin:           0 0 0.5em 0 !important;
 }
 
 .markdown-rendered code {
