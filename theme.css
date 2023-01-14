@@ -274,7 +274,7 @@ body {
   --callout-question: 207, 186, 0;
 
   /* 2.k —— Syntax Highlighting                */
-  --code-comment:     #82A2C8;
+  --code-comment:     #82A2C8;416a82
   --code-tag:         #E83A78;
   --code-punctuation: #527EB2;
   --code-value:       #4696F4;
@@ -442,6 +442,8 @@ body {
   /* 3.i —— Canvas                             */
   --canvas-color: 53, 84, 100;
 
+  /* 3.j —— Syntax Highlighting                */
+    --code-comment:   #3f6a87;
 
 }
 
