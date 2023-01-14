@@ -21,7 +21,7 @@ Special attention was given to the styling of:
 - Tables
 - Front-matter display + inline title
 
-![](/abyssal-screenshots.png)
+![](/assets/abyssal-screenshots.png)
 
 Abyssal is my first theme as a new-ish user of [Obsidian](https://obsidian.md/), so some bugs may be found (I couldn’t test on mobile or on Linux yet, for example). Please report them, and I’ll do my best to fix them! 
 
@@ -45,7 +45,7 @@ I often prefer larger values for the line height; it’s often the first thing I
 ## 📐 Baseline
 To make things coherent despite the asymmetrical spacing of headings and other block items (which is a personal preference, not a rule), I initially created a baseline grid of 16px. Still, I wanted more control over some details, so I divided it in 8px instead, used it as a background in Obsidian, and it guided me via multiples/subdivisions while spacing and sizing.
 
-![](/abyssal-grid-example.png)
+![](/assets/abyssal-grid-example.png)
 
 This is not a big deal, but it helped me get into a more InDesign/Publisher kinda process, which was fun (the difference being the way that baseline is rendered on the web versus on print–focused apps, but what mattered for me was the visualization of consistency/coherence while exploring options). 
 
