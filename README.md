@@ -1,4 +1,4 @@
-![](/abyssal-opening.png)
+![](/assets/abyssal-opening.png)
 
 # Abyssal
 Abyssal is a simple theme from a type enthusiast (me) who was looking for modifications that would improve the reading and writing experience without dramatically changing [Obsidian](https://obsidian.md/)’s interface. 
